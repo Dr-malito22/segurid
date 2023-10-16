@@ -2,7 +2,7 @@
     background-color: #8b4513;
 }
 .t-c {
-    font-family: 'Audiowide-Regular';
+    font-family: 'Audiowide';
 } 
 .text-white {
     color: white;
@@ -26,7 +26,7 @@ footer{
   fill: #ffffff;
 }  
 .n-t{
- font-family: 'CinzelDecorative-Black';
+ font-family: 'Cinzel Decorative';
 }  
 .dropdown-menu.tr-bg{
 background-color: transparent;
@@ -56,7 +56,7 @@ background-color: transparent;
     margin: 0 auto;
   }
   p{
-    font-family: 'Raleway-Bold';
+    font-family: 'Raleway';
     font-size: 20px;
     }
     .b-example-divider {
@@ -75,10 +75,10 @@ background-color: transparent;
     }
     
 .t-t{
-  font-family: 'BebasNeue-Regular';
+  font-family: 'BebasNeue';
 }
 .f{
-  font-family: 'Raleway-Bold';
+  font-family: 'Raleway';
 }           
 #b{
     float: right;
@@ -94,7 +94,7 @@ background-color: transparent;
   max-height: 100%;
 }
 .t{
-  font-family: 'Bangers-Regular';
+  font-family: 'Bangers';
 }
 
 @font-face {
