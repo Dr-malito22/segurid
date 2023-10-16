@@ -99,17 +99,17 @@ background-color: transparent;
 
 @font-face {
     font-family: 'Raleway';
-    src: url('/fuente/Raleway/static/Raleway-Bold.ttf') format('truetype'),
+    src: url('../fuente/Raleway/static/Raleway-Bold.ttf') format('truetype'),
   }
   @font-face {
     font-family: 'Audiowide';
-    src: url('/fuente/Audiowide/Audiowide-Regular.ttf') format('truetype');
+    src: url('../fuente/Audiowide/Audiowide-Regular.ttf') format('truetype');
   }
 @font-face {
     font-family: 'Cinzel Decorative';
-    src: url('/fuente/Cinzel_Decorative/CinzelDecorative-Black.ttf') format('truetype'),
+    src: url('../fuente/Cinzel_Decorative/CinzelDecorative-Black.ttf') format('truetype'),
   }
   @font-face {
     font-family: 'BebasNeue';
-    src: url('/fuente/Bebas_Neue/BebasNeue-Regular.ttf') format('truetype');
+    src: url('../fuente/Bebas_Neue/BebasNeue-Regular.ttf') format('truetype');
   }
